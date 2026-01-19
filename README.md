@@ -1,10 +1,8 @@
 # Customer Support Agent
 
-![1768799221408](image/README/1768799221408.png)
+![1768799221408](images/arch.png)
 
 # **THE INITIAL JUPYTER CODE - work in progress**
-
-This project is currently a **prototype** , suitable for experimentation, internal demos, and architectural validation.
 
 ## Overview
 
@@ -69,7 +67,7 @@ Typical workflow:
    * Recommended internal actions
    * Ownership and escalation signals
 
-All outputs are intended for internal teams and decision-makers
+All outputs are intended for internal teams and decision-makers.
 
 ## Roadmap / TODO
 
